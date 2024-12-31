@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.28.128.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735520452723
+  login: 1735520043115
+money: '0'
+last-account-name: SKrampusPEcausa
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 315.76722076748996
+  y: 77.25220334025373
+  z: 623.7436876138621
+  yaw: -116.39984130859375
+  pitch: 27.450054168701172
+lastlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 12.771359305509291
+  y: 106.76636799395752
+  z: 13.203667556605685
+  yaw: -49.80000305175781
+  pitch: 35.249996185302734

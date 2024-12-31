@@ -1,0 +1,5 @@
+Enabled: true
+Name: Exp
+Format: '%price% %currency_name%'
+Icon:
+  Material: GOLD_INGOT

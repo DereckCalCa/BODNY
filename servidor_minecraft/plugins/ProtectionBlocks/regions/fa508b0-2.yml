@@ -1,0 +1,15 @@
+Block:
+  Location: 192.0,63.0,119.0,0.0,0.0,world
+  Id: bloque_de_diamante
+Bounds:
+  From: 162.0,33.0,89.0,0.0,0.0,world
+  To: 222.0,93.0,149.0,0.0,0.0,world
+Owner: 2f973d55-3e2c-33b9-9e01-115ef44fd74f
+Time:
+  Create: 1734993745630
+  Last_Deposit: -1
+Cache:
+  Health: 1000000000
+  Region:
+    Size: 30
+Owner_Name: lacalacaxd

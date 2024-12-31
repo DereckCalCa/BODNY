@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.28.117.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735537730238
+  login: 1735533013993
+money: '0'
+last-account-name: pingaparaangel
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 1249.4581067780246
+  y: 63.0
+  z: -1939.1085369760144
+  yaw: -4.976987838745117E-6
+  pitch: 4.199863910675049
+lastlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: -62.7814682499225
+  y: 56.0
+  z: 257.2238014405872
+  yaw: 60.00004577636719
+  pitch: -31.94994354248047

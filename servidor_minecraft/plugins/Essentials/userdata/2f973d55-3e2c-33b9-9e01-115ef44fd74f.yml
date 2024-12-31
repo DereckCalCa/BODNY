@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.28.26.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735241560543
+  login: 1735239207355
+money: '0'
+last-account-name: lacalacaxd
+lastlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: -69.69078304016953
+  y: 58.0
+  z: 243.30000001192093
+  yaw: -27.4512939453125
+  pitch: 31.650053024291992
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 372.38404457287197
+  y: 69.0
+  z: 631.3000000119209
+  yaw: 83.967529296875
+  pitch: 5.85005521774292

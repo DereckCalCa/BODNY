@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.28.131.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735538358588
+  login: 1735532006602
+money: '0'
+last-account-name: XxMatos15
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 1271.4516391022821
+  y: 68.0
+  z: -1940.4851038608901
+  yaw: -179.47268676757812
+  pitch: 34.34438705444336
+lastlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: -72.75110849933814
+  y: 53.0
+  z: 247.30000001192093
+  yaw: -87.16388702392578
+  pitch: -89.93760681152344

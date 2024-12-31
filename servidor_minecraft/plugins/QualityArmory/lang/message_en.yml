@@ -1,0 +1,80 @@
+Prefix: '&8[&2QualityArmory&8]&r'
+NoPermAnvilMessage: ' &a No tienes permiso para usar este banco de armamento. Shift+Click
+  para acceder al yunque.'
+NoPerm: '&c No tienes permiso para hacer eso.'
+ShopName: 'Página de la Tienda de Armas:'
+CraftingBenchName: 'Página de la Mesa de Trabajo del Armamento:'
+Missing_Ingredients: No tienes todos los materiales necesarios para crear esto.
+NoResourcepackMessage1: ' &c&l Descargando el Resourcepack...'
+NoResourcepackMessage2: ' &f Acepta el resourcepack para ver los objetos personalizados.'
+Lore_Ammo: '&aMunición'
+lore_bullets: '&aBalas'
+Lore_Damage: '&aDaño'
+Lore_Durib: Durabilidad
+Lore_ingredients: Ingredientes
+Lore_Variants: '&7Variante:'
+Lore_Price: '&6Precio: '
+Lore_DamagePerSecond: '&2DPS'
+Lore_Crafts: Creaciones
+Lore_Returns: Devoluciones
+Reloading_Message: '[Recargando...]'
+State_AmmoCount: '[%total%]'
+State_OutOfAmmo: '[Sin munición]'
+HotbarMessage: '%name% = %amount%/%max% %state%'
+Kick_message_if_player_denied_request: "&c Has sido expulsado porque no aceptaste\
+  \ el resourcepack. \n&f Si deseas volver a unirte al servidor, edita la entrada\
+  \ del servidor y configura \"Solicitar Resourcepack\" a \"Aceptar\" o \"Solicitar\"\
+  '"
+Lore-LMB-Single: §8[LMB] para usar el modo de fuego único
+Lore-LMB-FullAuto: §8[Sneak]+[LMB] para usar el modo de fuego automático
+Lore-RMB-Reload: §8[RMB] para recargar
+Lore-Ironsights-RMB: §8[RMB] para abrir las miras
+Lore-Ironsights-Sneak: §8[Sneak] para abrir las miras
+Lore-Reload-Dropitem: §8[DropItem] para recargar
+Lore-Reload-RMB: §8[RMB] para recargar
+Lore-Helmet-RMB: §8[RMB] para equipar el casco.
+Shop_Confirm: '&a¡Has comprado %item% por $%cost%!'
+Resourcepack_InCaseOfCrash: En caso de que el resourcepack haga que tu cliente se
+  caiga, rechaza la solicitud y usa /qa getResourcepack para obtener el resourcepack.
+Resourcepack_Download: Download this resourcepack and enable it to see the custom
+  items (Note that it may take some time to load)
+Resourcepack_NowBypass: By issuing this command, you are now added to a whitelist
+  for the resourcepack. You should no longer see the prompt
+Resourcepack_NowOptIn: By issuing this command, you have been removed from the whitelist.
+  You will now recieve the resourcepack prompt
+Medkit-FullyHealed: '&f¡Estás completamente curado. ¡No lo necesitas ahora!'
+Medkit-Healing: Sanando
+Medkit-Bleeding: 'Tasa de pérdida de sangre:'
+Medkit-HEALING_HEARTS_AMOUNT: 1.0
+Medkit-HEALING_WEAPPING_DELAY_IN_SECONDS: 6.0
+Medkit-Lore_RMB: '&f[RMB] para curarte!'
+Bleeding:
+  Losingconsciousness: '&cYOU ARE LOSING CONSCIOUSNESS DUE TO BLOODLOSS!'
+  StartBleeding: '&cYOU ARE BLEEDING! FIND A MEDKIT TO STOP THE BLEEDING!'
+  ProtectedByKevlar: '&aYour Kevlar vest protected you from that bullet!'
+EntityType:
+  IRON_INGOT: LINGOTE_DE_HIERRO
+  REDSTONE: REDSTONE
+  OAK_PLANKS: MADERA_DE_ROBLE
+  BLAZE_POWDER: POLVO_DE_BLAZE
+  GOLD_INGOT: LINGOTE_DE_ORI
+  GUNPOWDER: PÓLVORA
+  NETHER_STAR: ESTRELLA_DEL_NETHER
+  BLAZE_ROD: BARA_DE_BLAZE
+  TNT: TNT
+  WHITE_DYE: WHITE_DYE
+  WHITE_WOOL: WHITE_WOOL
+  GOLDEN_APPLE: GOLDEN_APPLE
+  STRING: STRING
+  LEATHER: LEATHER
+  OBSIDIAN: OBSIDIAN
+Reload: ' Guns and configs have been reloaded.'
+NoMoney: You do not have enough money to buy this.
+grenadeAlreadyPulled: You already pulled the pin!
+grenadePull: ' Pull the pin first...'
+gui:
+  prevPage: '§6Previous Page:'
+  nextPage: '§6Next Page:'
+AmmoBag:
+  current: '§aAmmo: '
+  type: '§aAmmo Type: '

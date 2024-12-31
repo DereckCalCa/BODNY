@@ -1,0 +1,22 @@
+Block:
+  Location: -63.0,54.0,247.0,0.0,0.0,world
+  # Id for Region Block
+  Id: bloque_de_diamante
+Bounds:
+  From: -66.0,51.0,244.0,0.0,0.0,world
+  To: -60.0,57.0,250.0,0.0,0.0,world
+Owner: 2a9ff858-04dc-3136-97df-619a6316d09a
+Time:
+  Create: 1734995038924
+  Last_Deposit: -1
+Cache:
+  Health: 1000000000
+  Region:
+    Size: 3
+Owner_Name: XxMatos15
+Members:
+  List:
+    '0':
+      Id: fda94c63-d427-37bf-89dc-8504ed7b7103
+      Name: pingaparaangel
+      Join_Time: 1734995134944

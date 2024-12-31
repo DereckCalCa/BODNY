@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.28.72.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735330373910
+  login: 1735327889396
+money: '0'
+last-account-name: Ram_Tz
+logoutlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 1846.7752096982945
+  y: 75.0
+  z: -228.29122515104467
+  yaw: 64.8046875
+  pitch: 17.69965171813965
+lastlocation:
+  world: e3e5e213-62c9-40bd-9930-796d34b159e0
+  world-name: world
+  x: 137.2076471423911
+  y: 63.0
+  z: 106.79192488225603
+  yaw: 177.85614013671875
+  pitch: 21.74959945678711
