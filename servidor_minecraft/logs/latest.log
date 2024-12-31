@@ -277,3 +277,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:20:41] [Server thread/INFO]: * @ pensaba q si
 [23:26:56] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me solo es un backup xd
 [23:26:56] [Server thread/INFO]: * @ solo es un backup xd
+[23:39:18] [Server thread/INFO]: XxMatos15 lost connection: Timed out
+[23:39:18] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[23:39:18] [Server thread/INFO]: XxMatos15 left the game
