@@ -394,3 +394,60 @@
 [02:36:57] [Server thread/INFO]: Churrupakin issued server command: /weather sun
 [02:37:04] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
 [02:37:20] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[02:40:19] [Async Chat Thread - #73/INFO]: [Not Secure] Owner Churrupakin : voy a cerrar server dsp lo prendo
+[02:40:23] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[02:40:23] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[02:40:23] [Server thread/INFO]: Churrupakin left the game
+[02:40:46] [Async Chat Thread - #75/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[02:40:51] [Server thread/INFO]: Stopping the server
+[02:40:51] [Server thread/INFO]: Stopping server
+[02:40:51] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[02:40:52] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-45 - Shutdown initiated...
+[02:40:52] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-45 - Shutdown completed.
+[02:40:52] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
+[02:40:52] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[02:40:52] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[02:40:52] [Server thread/INFO]: [TAB] Disabled in 4ms
+[02:40:52] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
+[02:40:52] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[02:40:52] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[02:40:52] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
+[02:40:52] [Server thread/INFO]: [ChatEx] Disabling ChatEx v3.1.0
+[02:40:52] [Server thread/INFO]: [ChatEx] Is now disabled!
+[02:40:52] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[02:40:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[02:40:52] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[02:40:52] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[02:40:52] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[02:40:52] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[02:40:52] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[02:40:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[02:40:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[02:40:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[02:40:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[02:40:52] [Server thread/INFO]: Saving players
+[02:40:52] [Server thread/INFO]: pingaparaangel lost connection: Server closed
+[02:40:52] [Server thread/INFO]: pingaparaangel left the game
+[02:40:52] [Server thread/INFO]: Saving worlds
+[02:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Saved 19 block chunks, 299 entity chunks, 3 poi chunks in world 'world' in 0.07s
+[02:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 74 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
+[02:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:40:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 43 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[02:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:40:52] [Server thread/INFO]: Flushing Chunk IO
+[02:40:52] [Server thread/INFO]: Closing Thread Pool
+[02:40:52] [Server thread/INFO]: Closing Server
