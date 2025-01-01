@@ -703,3 +703,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:43:54] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [21:43:54] [Server thread/INFO]: Churrupakin left the game
 [22:47:08] [Server thread/INFO]: pingaparaangel has made the advancement [What a Deal!]
+[23:46:07] [Server thread/INFO]: Villager EntityVillager['Armorer'/46449, uuid='87852efa-0961-4857-bb74-6161d436a741', l='ServerLevel[world]', x=1244.45, y=68.00, z=-1949.46, cpos=[77, -122], tl=1119013, v=true] died, message: 'Armorer was slain by pingaparaangel'
