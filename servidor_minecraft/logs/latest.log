@@ -527,3 +527,59 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:25:38] [User Authenticator #8/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
 [20:25:38] [Server thread/INFO]: XxMatos15 joined the game
 [20:25:38] [Server thread/INFO]: XxMatos15[/172.28.131.63:50348] logged in with entity id 53214 at ([world]1291.2417111949605, 65.0, -1947.8798129731722)
+[20:27:18] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20:27:18] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen 5
+[20:27:18] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:27:27] [Async Chat Thread - #48/INFO]: [Not Secure] Heroico  pingaparaangel : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20:27:39] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen 5
+[20:27:39] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:27:48] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[20:27:48] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:27:48] [Server thread/INFO]: Churrupakin left the game
+[20:33:40] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : oe
+[20:33:49] [Async Chat Thread - #50/INFO]: [Not Secure] Heroico  pingaparaangel : en lebunker no habia cuero?xd
+[20:35:52] [User Authenticator #9/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:35:52] [Server thread/INFO]: Churrupakin joined the game
+[20:35:52] [Server thread/INFO]: Churrupakin[/172.28.81.73:37518] logged in with entity id 55459 at ([world]138.47303155248716, 73.0, -555.1935269174758)
+[20:36:22] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[20:36:23] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : ns
+[20:36:29] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  XxMatos15 : fui al bunkery estaba echo mrd
+[20:36:34] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  XxMatos15 : hay abia como 1 stack de cuero
+[20:36:37] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:36:43] [Async Chat Thread - #53/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
+[20:36:54] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  pingaparaangel : pero si lo dejamos bien el bunker
+[20:37:00] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : esta td roto
+[20:37:07] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : los cofres desaparecieron
+[20:37:15] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  XxMatos15 : hay abia cuero como mrd
+[20:37:21] [Async Chat Thread - #52/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
+[20:37:22] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:37:33] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:37:33] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:38:29] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:38:49] [Async Chat Thread - #54/INFO]: [Not Secure] Heroico  pingaparaangel : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20:38:57] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[20:39:11] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  pingaparaangel : a pucta
+[20:39:17] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  pingaparaangel : ta hecho mrd el bunker
+[20:39:26] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  XxMatos15 : si p
+[20:39:34] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  XxMatos15 : quien abrasidoeldawqabraechoeso
+[20:39:47] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  pingaparaangel : la yegua seguro
+[20:39:51] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  XxMatos15 : no entro
+[20:39:58] [Async Chat Thread - #55/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
+[20:40:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:40:41] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:40:41] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:41:05] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:41:05] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:41:17] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:41:17] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:41:44] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:41:44] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:42:03] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen 5
+[20:42:03] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:42:21] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen 5
+[20:42:21] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:43:03] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[20:43:49] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:44:28] [Async Chat Thread - #56/INFO]: [Not Secure] Heroico  pingaparaangel : matias
+[20:44:34] [Async Chat Thread - #56/INFO]: [Not Secure] Heroico  pingaparaangel : tp a chifon
+[20:46:53] [Async Chat Thread - #58/INFO]: [Not Secure] Heroico  pingaparaangel : tp a chifa go
