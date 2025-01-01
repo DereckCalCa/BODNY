@@ -382,3 +382,15 @@
 [02:20:21] [Server thread/INFO]: Villager EntityVillager['Villager'/44594, uuid='2d7a5d16-3342-4555-880b-5ac2e53be41a', l='ServerLevel[world]', x=140.70, y=201.31, z=-546.62, cpos=[8, -35], tl=403, v=true] died, message: 'Villager was slain by Churrupakin'
 [02:22:32] [Server thread/INFO]: Villager EntityVillager['Villager'/44603, uuid='b8d9b88b-a415-4a4c-90d6-5a38412947ff', l='ServerLevel[world]', x=141.70, y=170.30, z=-547.70, cpos=[8, -35], tl=863, v=true] died, message: 'Villager was slain by Churrupakin'
 [02:27:31] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[02:34:42] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[02:35:06] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[02:35:09] [User Authenticator #16/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[02:35:09] [Server thread/INFO]: pingaparaangel joined the game
+[02:35:09] [Server thread/INFO]: pingaparaangel[/172.28.117.248:59547] logged in with entity id 46048 at ([world]1242.9091239747179, 68.0, -1946.2828719602905)
+[02:35:20] [Async Chat Thread - #71/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[02:35:22] [Server thread/INFO]: Churrupakin issued server command: /weather sun
+[02:35:29] [Async Chat Thread - #71/INFO]: [Not Secure] Owner Churrupakin : ya esta xd
+[02:35:45] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  pingaparaangel : le daba la version en custom xdd
+[02:36:57] [Server thread/INFO]: Churrupakin issued server command: /weather sun
+[02:37:04] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[02:37:20] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
