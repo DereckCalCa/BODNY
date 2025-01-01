@@ -696,3 +696,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:25:01] [Async Chat Thread - #76/INFO]: [Not Secure] Owner Churrupakin : LO MALO ESQ SI NO ESTAS BIEN EQUIPADO TE PUEDEN MATAR
 [21:25:41] [Async Chat Thread - #76/INFO]: [Not Secure] Owner Churrupakin : AHI LES MANDO FOTO DE LO Q SAQUE EN 1 MINUTO
 [21:25:51] [Async Chat Thread - #75/INFO]: [Not Secure] Heroico  pingaparaangel : ya
+[21:29:57] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[21:33:49] [Server thread/INFO]: Churrupakin issued server command: /gamemode C
+[21:33:51] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative

@@ -322,6 +322,7 @@
       "suspicious_stew": "2024-12-08 04:01:55 +0000",
       "golden_carrot": "2024-12-08 04:22:17 +0000",
       "cooked_chicken": "2024-12-09 01:20:09 +0000",
+      "enchanted_golden_apple": "2025-01-01 21:29:40 +0000",
       "cooked_salmon": "2024-12-07 04:16:02 +0000",
       "carrot": "2024-12-08 20:55:20 +0000"
     },
@@ -3608,6 +3609,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-01-01 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-01 21:29:36 +0000"
     },
     "done": true
   },
