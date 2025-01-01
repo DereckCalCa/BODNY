@@ -512,3 +512,18 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:13:17] [Server thread/INFO]: XxMatos15 lost connection: Timed out
 [20:13:17] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
 [20:13:17] [Server thread/INFO]: XxMatos15 left the game
+[20:19:45] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[20:19:47] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:21:24] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:22:19] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:22:19] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:22:32] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:23:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[20:23:30] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:23:39] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:23:39] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:24:02] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[20:24:02] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[20:25:38] [User Authenticator #8/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[20:25:38] [Server thread/INFO]: XxMatos15 joined the game
+[20:25:38] [Server thread/INFO]: XxMatos15[/172.28.131.63:50348] logged in with entity id 53214 at ([world]1291.2417111949605, 65.0, -1947.8798129731722)
