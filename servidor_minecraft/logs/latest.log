@@ -662,3 +662,23 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:07:37] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
 [21:07:48] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
 [21:07:48] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[21:11:30] [Async Chat Thread - #66/INFO]: [Not Secure] Heroico  XxMatos15 : tienes madera de abeto?
+[21:11:31] [Server thread/INFO]: Villager EntityVillager['Farmer'/64929, uuid='2864fe95-942e-4f9d-bdee-4dd491f64e1e', l='ServerLevel[world]', x=140.70, y=200.00, z=-546.30, cpos=[8, -35], tl=134930, v=true] died, message: 'Farmer was slain by Churrupakin'
+[21:12:37] [Async Chat Thread - #68/INFO]: [Not Secure] Heroico  pingaparaangel : al frente he plantado abeto
+[21:12:42] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  XxMatos15 : ya
+[21:13:07] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[21:14:58] [Async Chat Thread - #71/INFO]: [Not Secure] Heroico  pingaparaangel : duerme
+[21:17:55] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[21:17:56] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[21:17:56] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[21:18:08] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[21:18:08] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[21:18:25] [Server thread/INFO]: Churrupakin issued server command: /effect give Churrupakin minecraft:bad_omen
+[21:18:25] [Server thread/INFO]: [Churrupakin: Applied effect Bad Omen to Churrupakin]
+[21:18:45] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[21:18:51] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  XxMatos15 : mas tarde entro
+[21:18:56] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  pingaparaangel : hora
+[21:18:57] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[21:18:57] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[21:18:57] [Server thread/INFO]: XxMatos15 left the game
+[21:19:02] [Async Chat Thread - #73/INFO]: [Not Secure] Heroico  pingaparaangel : xd
