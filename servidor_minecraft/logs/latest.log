@@ -256,3 +256,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:02:10] [Server thread/INFO]: XxMatos15 joined the game
 [17:02:10] [Server thread/INFO]: XxMatos15[/172.28.131.63:58001] logged in with entity id 245 at ([world]1304.2167435338863, 63.0, -1935.5065010196772)
 [17:03:29] [Server thread/INFO]: XxMatos15 was slain by Zombie
+[17:16:30] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.3041492320667203
+[17:16:30] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 0.6555628294293001
+[17:16:30] [Server thread/WARN]: Horse (vehicle of XxMatos15) moved wrongly! 1.0069763709711879
+[17:16:56] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me y pinganyelo xddddddddddd
+[17:16:56] [Server thread/INFO]: * @ y pinganyelo xddddddddddd
