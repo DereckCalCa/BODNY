@@ -393,3 +393,18 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:16:43] [Server thread/INFO]: Churrupakin lost connection: Disconnected
 [19:16:43] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [19:16:43] [Server thread/INFO]: Churrupakin left the game
+[19:23:08] [User Authenticator #4/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[19:23:08] [Server thread/INFO]: XxMatos15 joined the game
+[19:23:08] [Server thread/INFO]: XxMatos15[/172.28.131.63:64069] logged in with entity id 37292 at ([world]837.4560259700183, 86.0, -518.0105661792668)
+[19:23:25] [Async Chat Thread - #23/INFO]: [Not Secure] Heroico  XxMatos15 : ya isieron raid?
+[19:23:33] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : nd
+[19:23:38] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : matias se fue a comer
+[19:25:02] [Async Chat Thread - #25/INFO]: [Not Secure] Heroico  XxMatos15 : en 10 entro
+[19:25:04] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[19:25:04] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[19:25:04] [Server thread/INFO]: XxMatos15 left the game
+[19:28:58] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:28:58] [Server thread/INFO]: Churrupakin joined the game
+[19:28:58] [Server thread/INFO]: Churrupakin[/172.28.81.73:51466] logged in with entity id 38382 at ([world]142.8665323806863, 71.0, -550.5241798447133)
+[19:30:44] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[19:30:53] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
