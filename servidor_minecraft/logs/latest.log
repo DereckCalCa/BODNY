@@ -251,3 +251,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [05:15:41] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
 [05:15:41] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion worldguard due to an unknown issue.
 [05:15:41] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[05:27:05] [User Authenticator #0/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[05:27:05] [Server thread/INFO]: pingaparaangel joined the game
+[05:27:05] [Server thread/INFO]: pingaparaangel[/172.28.117.248:55102] logged in with entity id 245 at ([world]1242.8315908073412, 73.0, -1952.5465574723455)
