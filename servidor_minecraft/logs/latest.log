@@ -378,3 +378,7 @@
 [02:15:56] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [02:16:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
 [02:16:18] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[02:18:38] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[02:20:21] [Server thread/INFO]: Villager EntityVillager['Villager'/44594, uuid='2d7a5d16-3342-4555-880b-5ac2e53be41a', l='ServerLevel[world]', x=140.70, y=201.31, z=-546.62, cpos=[8, -35], tl=403, v=true] died, message: 'Villager was slain by Churrupakin'
+[02:22:32] [Server thread/INFO]: Villager EntityVillager['Villager'/44603, uuid='b8d9b88b-a415-4a4c-90d6-5a38412947ff', l='ServerLevel[world]', x=141.70, y=170.30, z=-547.70, cpos=[8, -35], tl=863, v=true] died, message: 'Villager was slain by Churrupakin'
+[02:27:31] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
