@@ -354,3 +354,27 @@
 [02:07:06] [Async Chat Thread - #67/INFO]: [Not Secure] Owner Churrupakin : pera termino algo y veo la ft
 [02:07:15] [Server thread/WARN]: pingaparaangel moved too quickly! -1.1864215371331284,0.37673561378172593,10.188519706671059
 [02:07:29] [Async Chat Thread - #68/INFO]: [Not Secure] Heroico  pingaparaangel : ya
+[02:08:41] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[02:08:41] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[02:08:41] [Server thread/INFO]: pingaparaangel left the game
+[02:09:20] [User Authenticator #14/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[02:09:20] [Server thread/INFO]: pingaparaangel joined the game
+[02:09:20] [Server thread/INFO]: pingaparaangel[/172.28.117.248:59142] logged in with entity id 42840 at ([world]1308.0724503561419, 71.0, -1865.940835942809)
+[02:10:29] [Async Chat Thread - #69/INFO]: [Not Secure] Owner Churrupakin : lo q te sale es error del minecraft
+[02:10:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
+[02:10:37] [Server thread/INFO]: pingaparaangel lost connection: Flying is not enabled on this server
+[02:10:37] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[02:10:37] [Server thread/INFO]: pingaparaangel left the game
+[02:10:39] [Async Chat Thread - #69/INFO]: [Not Secure] Owner Churrupakin : intenta descargar otra instancia
+[02:10:55] [User Authenticator #15/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[02:10:55] [Server thread/INFO]: pingaparaangel joined the game
+[02:10:55] [Server thread/INFO]: pingaparaangel[/172.28.117.248:59147] logged in with entity id 43338 at ([world]1243.456142722362, 68.05411736736092, -1950.577043774598)
+[02:11:07] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : inter de mrd
+[02:11:40] [Server thread/WARN]: pingaparaangel was kicked due to keepalive timeout!
+[02:11:40] [Server thread/INFO]: pingaparaangel lost connection: Timed out
+[02:11:40] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[02:11:40] [Server thread/INFO]: pingaparaangel left the game
+[02:15:45] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[02:15:56] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[02:16:07] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[02:16:18] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
