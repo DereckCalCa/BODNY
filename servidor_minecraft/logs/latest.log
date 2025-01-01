@@ -257,3 +257,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [06:38:31] [User Authenticator #1/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
 [06:38:31] [Server thread/INFO]: XxMatos15 joined the game
 [06:38:31] [Server thread/INFO]: XxMatos15[/172.28.131.63:49861] logged in with entity id 728 at ([world]1282.5747263512835, 63.0, -1953.9742261346116)
+[06:53:12] [Async Chat Thread - #1/INFO]: [Not Secure] Heroico  XxMatos15 : tienes la madera de abeto?
+[06:53:42] [Async Chat Thread - #0/INFO]: [Not Secure] Heroico  pingaparaangel : si
+[06:53:46] [Async Chat Thread - #0/INFO]: [Not Secure] Heroico  XxMatos15 : pasa
