@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1735507977439
+  lastteleport: 1735690145514
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1735686478714
-  login: 1735686389606
+  logout: 1735690089068
+  login: 1735690094576
 money: '0'
 last-account-name: Churrupakin
 logoutlocation:
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: e3e5e213-62c9-40bd-9930-796d34b159e0
   world-name: world
-  x: 1402.450344108069
-  y: 75.22079132520834
-  z: -1970.9897733782177
-  yaw: -99.18508911132812
-  pitch: 1.34982430934906
+  x: 277.1173881221849
+  y: 63.875
+  z: -333.0798742991757
+  yaw: 111.526611328125
+  pitch: 18.899320602416992
