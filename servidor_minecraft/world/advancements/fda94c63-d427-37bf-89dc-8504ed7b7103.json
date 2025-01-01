@@ -3368,5 +3368,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-01 18:27:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
