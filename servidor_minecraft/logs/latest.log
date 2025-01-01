@@ -266,3 +266,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [07:10:49] [User Authenticator #2/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
 [07:10:49] [Server thread/INFO]: XxMatos15 joined the game
 [07:10:49] [Server thread/INFO]: XxMatos15[/172.28.131.63:49942] logged in with entity id 4503 at ([world]1311.654846775126, 63.0, -1935.019504243688)
+[07:17:41] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me en 3 mnt cerrare server
+[07:17:41] [Server thread/INFO]: * @ en 3 mnt cerrare server
