@@ -23,6 +23,7 @@
       "minecraft:forest": "2024-12-06 21:58:16 +0000",
       "minecraft:deep_cold_ocean": "2024-12-24 23:36:05 +0000",
       "minecraft:ocean": "2024-12-26 19:31:18 +0000",
+      "minecraft:flower_forest": "2025-01-01 00:16:44 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-07 17:50:34 +0000",
       "minecraft:meadow": "2024-12-07 05:04:50 +0000",
       "minecraft:plains": "2024-12-07 03:26:34 +0000"
@@ -3571,6 +3572,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-12-29 22:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-01-01 00:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-01-01 00:13:52 +0000"
     },
     "done": true
   },
