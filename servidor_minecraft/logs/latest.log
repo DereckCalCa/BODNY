@@ -594,3 +594,91 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [05:02:05] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
 [05:02:13] [Async Chat Thread - #68/INFO]: [Not Secure] Heroico  pingaparaangel : chifa la kgo con sus zombies
 [05:04:43] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  XxMatos15 : xd
+[05:05:41] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : llegaron rodrigos negros
+[05:05:48] [Async Chat Thread - #70/INFO]: [Not Secure] Heroico  pingaparaangel : una de bandera
+[05:08:58] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  XxMatos15 : XDDDDDDDDDDDDDDDD
+[05:09:03] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  XxMatos15 : me perdi creo
+[05:09:09] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  pingaparaangel : q idiota
+[05:09:10] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  XxMatos15 : pasa coor
+[05:09:46] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[05:09:51] [Async Chat Thread - #72/INFO]: [Not Secure] Heroico  pingaparaangel : 1248.614 / 67.000 / -1951.065
+[05:11:40] [Async Chat Thread - #74/INFO]: [Not Secure] Owner Churrupakin : fue
+[05:11:45] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  pingaparaangel : pera 2
+[05:11:46] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[05:11:46] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[05:11:46] [Server thread/INFO]: Churrupakin left the game
+[05:12:00] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
+[05:12:18] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  pingaparaangel : dnd estas kbro
+[05:12:19] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[05:12:19] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[05:12:19] [Server thread/INFO]: XxMatos15 left the game
+[05:12:37] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me voy a apagar xd
+[05:12:37] [Server thread/INFO]: * @ voy a apagar xd
+[05:12:43] [Async Chat Thread - #74/INFO]: [Not Secure] Heroico  pingaparaangel : yaya
+[05:12:45] [User Authenticator #3/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[05:12:45] [Server thread/INFO]: XxMatos15 joined the game
+[05:12:45] [Server thread/INFO]: XxMatos15[/172.28.131.63:61099] logged in with entity id 49764 at ([world]1572.8808991358999, 101.0, -955.4961125107783)
+[05:12:48] [Server thread/INFO]: Stopping the server
+[05:12:48] [Server thread/INFO]: Stopping server
+[05:12:48] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
+[05:12:48] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-3f - Shutdown initiated...
+[05:12:48] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-3f - Shutdown completed.
+[05:12:48] [Thread-38/WARN]: java.sql.SQLException: HikariDataSource HikariDataSource (ProtectionBlocks-3f) has been closed.
+[05:12:48] [Thread-38/WARN]: 	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:96)
+[05:12:48] [Thread-38/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.connection.AbstractDataConnector.getConnection(AbstractDataConnector.java:51)
+[05:12:48] [Thread-38/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.sql.SQLQueries.executeStatement(SQLQueries.java:62)
+[05:12:48] [Thread-38/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.sql.executor.UpdateQueryExecutor.execute(UpdateQueryExecutor.java:69)
+[05:12:48] [Thread-38/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.AbstractDataHandler.update(AbstractDataHandler.java:163)
+[05:12:48] [Thread-38/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.AbstractUserDataHandler.saveUser(AbstractUserDataHandler.java:163)
+[05:12:48] [Thread-38/WARN]: 	at PLAZMER-ENGINE-2.4.8.jar//t.me.p1azmer.engine.api.data.AbstractUserManager.lambda$saveUser$9(AbstractUserManager.java:181)
+[05:12:48] [Thread-38/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+[05:12:48] [Thread-38/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[05:12:48] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
+[05:12:48] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[05:12:48] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[05:12:49] [Server thread/INFO]: [TAB] Disabled in 5ms
+[05:12:49] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
+[05:12:49] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[05:12:49] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[05:12:49] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
+[05:12:49] [Server thread/INFO]: [ChatEx] Disabling ChatEx v3.1.0
+[05:12:49] [Server thread/INFO]: [ChatEx] Is now disabled!
+[05:12:49] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
+[05:12:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[05:12:49] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
+[05:12:49] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[05:12:49] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:12:49] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[05:12:49] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:12:49] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[05:12:49] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:12:49] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:12:49] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:12:49] [Server thread/INFO]: Saving players
+[05:12:49] [Server thread/INFO]: pingaparaangel lost connection: Server closed
+[05:12:49] [Server thread/INFO]: pingaparaangel left the game
+[05:12:49] [Server thread/INFO]: XxMatos15 lost connection: Server closed
+[05:12:49] [Server thread/INFO]: XxMatos15 left the game
+[05:12:49] [Server thread/INFO]: Saving worlds
+[05:12:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:12:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:12:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:12:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Saved 478 block chunks, 977 entity chunks, 0 poi chunks in world 'world' in 1.05s
+[05:12:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:12:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 73 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[05:12:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:12:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:12:50] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 41 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:12:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:12:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:12:50] [Server thread/INFO]: Flushing Chunk IO
+[05:12:50] [Server thread/INFO]: Closing Thread Pool
+[05:12:50] [Server thread/INFO]: Closing Server
