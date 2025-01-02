@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1735760953202
+  logout: 1735776790593
   login: 1735761727489
 money: '0'
 last-account-name: pingaparaangel
 logoutlocation:
   world: e3e5e213-62c9-40bd-9930-796d34b159e0
   world-name: world
-  x: 1242.5061177601274
-  y: 68.0
-  z: -1952.6051834974037
-  yaw: -25.500446319580078
-  pitch: 21.1500244140625
+  x: 1210.699999988079
+  y: 67.0
+  z: -1955.3897375090453
+  yaw: 123.5997085571289
+  pitch: 83.24996948242188
 lastlocation:
   world: e3e5e213-62c9-40bd-9930-796d34b159e0
   world-name: world

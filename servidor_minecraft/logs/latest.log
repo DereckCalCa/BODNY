@@ -1,1 +1,5 @@
 [00:04:03] [Server thread/INFO]: Villager EntityVillager['Armorer'/46424, uuid='1417a045-a420-4215-995a-9ea128d79747', l='ServerLevel[world]', x=1207.45, y=67.00, z=-1957.53, cpos=[75, -123], tl=1072349, v=true] died, message: 'Armorer was slain by pingaparaangel'
+[00:09:51] [Server thread/INFO]: Villager EntityVillager['Cartographer'/46475, uuid='13ef290a-a137-4bdd-aa26-2fb94fd6817d', l='ServerLevel[world]', x=1210.70, y=67.00, z=-1956.66, cpos=[75, -123], tl=1142411, v=true] died, message: 'Cartographer was slain by pingaparaangel'
+[00:13:10] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[00:13:10] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[00:13:10] [Server thread/INFO]: pingaparaangel left the game
