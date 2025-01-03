@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1735934157140
+  logout: 1735939165642
   login: 1735934194753
 money: '0'
 last-account-name: XxMatos15
 logoutlocation:
   world: e3e5e213-62c9-40bd-9930-796d34b159e0
   world-name: world
-  x: 1572.8808991358999
-  y: 101.0
-  z: -955.4961125107783
-  yaw: 141.1458740234375
-  pitch: 30.538387298583984
+  x: 1299.9355796117907
+  y: 63.0
+  z: -1927.7736791315986
+  yaw: -144.4562530517578
+  pitch: 10.946562767028809
 lastlocation:
   world: e3e5e213-62c9-40bd-9930-796d34b159e0
   world-name: world
