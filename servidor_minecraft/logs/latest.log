@@ -551,3 +551,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [22:43:27] [User Authenticator #6/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
 [22:43:27] [Server thread/INFO]: Churrupakin joined the game
 [22:43:27] [Server thread/INFO]: Churrupakin[/172.28.81.73:39026] logged in with entity id 57923 at ([world]133.51281696717052, 40.0, 130.06079886606565)
+[22:51:59] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[22:52:08] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[22:53:30] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[22:53:33] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[22:53:38] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
