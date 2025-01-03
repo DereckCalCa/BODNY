@@ -1,603 +1,254 @@
-[00:34:05] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[00:34:33] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[01:04:49] [Server thread/WARN]: pingaparaangel moved too quickly! 15.86455636183905,-0.3015347236627832,-1.941259981925441
-[01:14:05] [Server thread/WARN]: pingaparaangel moved too quickly! -6.761994544553772,1.703264399331296,9.781060393835787
-[01:22:56] [Server thread/INFO]: pingaparaangel has made the advancement [Enchanter]
-[01:32:26] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[01:33:45] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[01:35:46] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[01:36:41] [Server thread/INFO]: pingaparaangel was shot by Skeleton
-[01:49:21] [Server thread/WARN]: pingaparaangel moved too quickly! -13.37479900614153,4.757002463247808,-2.303483260239318
-[01:50:51] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[01:50:51] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:50:51] [Server thread/INFO]: pingaparaangel left the game
-[01:51:17] [User Authenticator #1/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:51:17] [Server thread/INFO]: pingaparaangel joined the game
-[01:51:17] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60545] logged in with entity id 26363 at ([world]1243.0542750979673, 68.5625, -1951.254879650997)
-[01:51:55] [Server thread/INFO]: pingaparaangel was slain by Zombie
-[01:52:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:11] [Server thread/INFO]: pingaparaangel lost connection: Flying is not enabled on this server
-[01:52:11] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[01:52:11] [Server thread/INFO]: pingaparaangel left the game
-[01:52:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:11] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:12] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:13] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:14] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:15] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:16] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:17] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:18] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:19] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:20] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:21] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:22] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:23] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:24] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [User Authenticator #2/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/INFO]: pingaparaangel joined the game
-[01:52:25] [Server thread/INFO]: pingaparaangel[/172.28.117.248:60552] logged in with entity id 26742 at ([world]1242.4596501896574, 69.0769004267756, -1951.8293984767681)
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:25] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:26] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:27] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:28] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:29] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:30] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:31] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:32] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:33] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:34] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:35] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:36] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:52:37] [Server thread/WARN]: pingaparaangel was kicked for floating too long!
-[01:54:17] [Server thread/WARN]: pingaparaangel moved too quickly! -12.565372873644037,1.2392592750642422,-8.608903480364916
-[02:44:51] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /me mno el server te votò?
-[02:44:51] [Server thread/INFO]: * @ mno el server te votò?
-[02:45:01] [Async Chat Thread - #1/INFO]: [Not Secure] Heroico  pingaparaangel : nd xd
-[03:01:41] [Craft Scheduler Thread - 22 - Orebfuscator/INFO]: [Orebfuscator] CacheFileCleanupTask successfully deleted 2 cache file(s)
-[03:11:04] [Async Chat Thread - #2/INFO]: [Not Secure] Heroico  pingaparaangel : fue
-[03:11:14] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[03:11:14] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[03:11:14] [Server thread/INFO]: pingaparaangel left the game
-[03:15:06] [Server thread/INFO]: Stopping the server
-[03:15:06] [Server thread/INFO]: Stopping server
-[03:15:06] [Server thread/INFO]: [ProtectionBlocks] Disabling ProtectionBlocks v1.0.9
-[03:15:06] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-31 - Shutdown initiated...
-[03:15:06] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-31 - Shutdown completed.
-[03:15:06] [Server thread/INFO]: [Orebfuscator] Disabling Orebfuscator v5.5.2
-[03:15:06] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[03:15:06] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
-[03:15:06] [Server thread/INFO]: [TAB] Disabled in 1ms
-[03:15:06] [Server thread/INFO]: [ImprovedFactions] Disabling ImprovedFactions v2.2.0
-[03:15:06] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
-[03:15:06] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
-[03:15:06] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.17
-[03:15:06] [Server thread/INFO]: [ChatEx] Disabling ChatEx v3.1.0
-[03:15:06] [Server thread/INFO]: [ChatEx] Is now disabled!
-[03:15:06] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.1
-[03:15:06] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[03:15:06] [Server thread/INFO]: [PLAZMER-ENGINE] Disabling PLAZMER-ENGINE v2.4.8
-[03:15:06] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
-[03:15:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[03:15:06] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
-[03:15:06] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[03:15:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[03:15:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:15:06] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:15:06] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:15:06] [Server thread/INFO]: Saving players
-[03:15:06] [Server thread/INFO]: Saving worlds
-[03:15:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:15:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:15:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:15:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:15:06] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 46 entity chunks, 1 poi chunks in world 'world' in 0.02s
-[03:15:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:15:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 77 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[03:15:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:15:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:15:07] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 42 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[03:15:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:15:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:15:07] [Server thread/INFO]: Flushing Chunk IO
-[03:15:07] [Server thread/INFO]: Closing Thread Pool
-[03:15:07] [Server thread/INFO]: Closing Server
+[19:30:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:30:40] [ServerMain/INFO]: Loaded 7 recipes
+[19:30:42] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:30:42] [Server thread/INFO]: Loading properties
+[19:30:43] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[19:30:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:30:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:30:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:30:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:30:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:30:45] [Server thread/INFO]: Generating keypair
+[19:30:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:30:46] [Server thread/INFO]: Using epoll channel type
+[19:30:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:30:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:30:46] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/customcrafting-spigot-4.16.11.jar' in 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [WolfyUtilities]. Please download and install these plugins to run 'CustomCrafting'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:510) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19:30:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loading 2 libraries... please wait
+[19:30:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/BODNY/servidor_minecraft/libraries/it/unimi/dsi/fastutil/8.5.11/fastutil-8.5.11.jar
+[19:30:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/BODNY/servidor_minecraft/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[19:30:47] [Server thread/INFO]: [SpigotLibraryLoader] [PLAZMER-ENGINE] Loaded library /workspaces/BODNY/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[19:30:47] [Server thread/INFO]: [PLAZMER-ENGINE] Server version detected as Paper 1.20.1.
+[19:30:47] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[19:30:47] [Server thread/INFO]: [PLAZMER-ENGINE] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[19:30:48] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[19:30:49] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[19:30:49] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[19:30:50] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[19:30:50] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[19:30:50] [Server thread/INFO]: [PLAZMER-ENGINE] Loading server plugin PLAZMER-ENGINE v2.4.8
+[19:30:50] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[19:30:50] [Server thread/INFO]: [CrazyEnchantments] Loading server plugin CrazyEnchantments v2.1
+[19:30:50] [Server thread/INFO]: [ChatEx] Loading server plugin ChatEx v3.1.0
+[19:30:50] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.17
+[19:30:50] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
+[19:30:50] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[19:30:50] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[19:30:50] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.5.1
+[19:30:50] [Server thread/INFO]: [ImprovedFactions] Loading server plugin ImprovedFactions v2.2.0
+[19:30:50] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[19:30:50] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[19:30:50] [Server thread/INFO]: [Orebfuscator] Loading server plugin Orebfuscator v5.5.2
+[19:30:50] [Server thread/INFO]: [ProtectionBlocks] Loading server plugin ProtectionBlocks v1.0.9
+[19:30:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:30:50] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[19:30:52] [Server thread/INFO]:         __    
+[19:30:52] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[19:30:52] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:30:52] [Server thread/INFO]: 
+[19:30:52] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:30:53] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:30:55] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:30:55] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:30:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 6369ms)
+[19:30:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[19:30:56] [Server thread/INFO]: [PLAZMER-ENGINE] Enabling PLAZMER-ENGINE v2.4.8
+[19:30:56] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[19:30:56] [Server thread/WARN]: [PLAZMER-ENGINE] WARNING: You're running an outdated server version (1.20.1)!
+[19:30:56] [Server thread/WARN]: [PLAZMER-ENGINE] This version will no longer be supported in future relases.
+[19:30:56] [Server thread/WARN]: [PLAZMER-ENGINE] Please upgrade your server to 1.20.4.
+[19:30:56] [Server thread/WARN]: [PLAZMER-ENGINE] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[19:30:56] [Server thread/WARN]: [PLAZMER-ENGINE] ===================================
+[19:30:56] [Server thread/INFO]: [PLAZMER-ENGINE] Seems like we have Paper based fork here...
+[19:30:56] [Server thread/INFO]: [PLAZMER-ENGINE] Plugin loaded in 397 ms!
+[19:30:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[19:30:58] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[19:30:59] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[19:31:00] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:31:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[19:31:00] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[19:31:00] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[19:31:00] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[19:31:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:31:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:31:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:31:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:31:00] [Server thread/INFO]: Preparing level "world"
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:31:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:31:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:31:02] [Server thread/INFO]: Time elapsed: 730 ms
+[19:31:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:31:02] [Server thread/INFO]: Time elapsed: 214 ms
+[19:31:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:31:02] [Server thread/INFO]: Time elapsed: 238 ms
+[19:31:02] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[19:31:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:31:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[19:31:06] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:31:06] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:31:07] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[19:31:07] [Server thread/INFO]: [Essentials] Using locale en
+[19:31:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:31:08] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:31:08] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[19:31:08] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[19:31:08] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:31:08] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[19:31:08] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[19:31:08] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[19:31:08] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v2.1
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the config.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded config.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the BlockList.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded BlockList.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the Data.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Data.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantments.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantments.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the GKitz.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded GKitz.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the Messages.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Messages.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the Enchantment-Types.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Enchantment-Types.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Loading the Tinker.yml.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] Successfully loaded Tinker.yml.
+[19:31:09] [Server thread/WARN]: [CrazyEnchantments] No eco plugin found or the eco plugin didn't enable. Any economy based feature will not work.
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §8§l=== §e§lCrazyEnchantment Hook Status §8§l===
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lVAULT §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lSUPERIORSKYBLOCK §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lSPARTAN §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lFACTIONS_UUID §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS_V2 §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDGUARD §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lNO_CHEAT_PLUS §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lMCMMO §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lPLOT_SQUARED §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lTOWNYADVANCED §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lSILK_SPAWNERS §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lWORLDEDIT §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lGRIEF_PREVENTION §c§lNOT FOUND
+[19:31:09] [Server thread/INFO]: [CrazyEnchantments] §6§lORAXEN §c§lNOT FOUND
+[19:31:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R1! Trying to find NMS support
+[19:31:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[19:31:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Gson: class com.google.gson.Gson
+[19:31:11] [Server thread/INFO]: [CrazyEnchantments] G-Kitz support is now enabled.
+[19:31:11] [Server thread/INFO]: [ChatEx] Enabling ChatEx v3.1.0
+[19:31:11] [Server thread/INFO]: [ChatEx] Successfully hooked into: LuckPerms
+[19:31:11] [Server thread/INFO]: [ChatEx] Hooked into PlaceholderAPI
+[19:31:11] [Server thread/INFO]: [ChatEx] Server version:git-Paper-196 (MC: 1.20.1)
+[19:31:11] [Server thread/INFO]: [ChatEx] Version is later than 1.16. Loading RGB ColorCodes!
+[19:31:11] [Server thread/INFO]: [ChatEx] Thanks for using bstats, it was enabled!
+[19:31:11] [Server thread/INFO]: [ChatEx] Is now enabled!
+[19:31:11] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.17
+[19:31:11] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[19:31:11] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[19:31:11] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'QualityArmory' to create a bStats instance!
+[19:31:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qualityarmory [2.0.17]
+[19:31:11] [Server thread/INFO]: [QualityArmory] Found PlaceholderAPI. Loaded support
+[19:31:12] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[19:31:12] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[19:31:13] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[19:31:13] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[19:31:13] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[19:31:13] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[19:31:13] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[19:31:13] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[19:31:13] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
+[19:31:14] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.5.1
+[19:31:15] [Server thread/INFO]: [sleep-most] Hooked to PlaceholderAPI
+[19:31:15] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[19:31:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: sleepmost [5.5.1]
+[19:31:15] [Server thread/INFO]: [ImprovedFactions] Enabling ImprovedFactions v2.2.0
+[19:31:15] [Server thread/INFO]: [ImprovedFactions] [dynmap] Dynmap module is enabled but Dynmap is not installed. Disabling Dynmap module.
+[19:31:15] [Server thread/INFO]: [ImprovedFactions] [gui] Gui module is enabled but GuiEngine is not installed. Disabling Gui module.
+[19:31:17] [Server thread/INFO]: [ImprovedFactions] Checking for updates...
+[19:31:18] [Server thread/INFO]: [ImprovedFactions] Config is up to date
+[19:31:18] [Server thread/WARN]: [ImprovedFactions] No whitelisted worlds found in config. Allowing all worlds
+[19:31:18] [Server thread/INFO]: [ImprovedFactions] Using database SQLITE as database
+[19:31:22] [Server thread/INFO]: [ImprovedFactions] Loaded module power-raids
+[19:31:22] [Server thread/INFO]: [ImprovedFactions] Loaded module wilderness
+[19:31:22] [Server thread/INFO]: [ImprovedFactions] Loaded module home
+[19:31:22] [Server thread/INFO]: [ImprovedFactions] Loaded module chat
+[19:31:22] [Server thread/INFO]: [ImprovedFactions] Loaded module claim-particles
+[19:31:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: faction [1.0.0]
+[19:31:22] [Server thread/INFO]: [ImprovedFactions] Loaded improved factions papi extension
+[19:31:22] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[19:31:22] [Server thread/INFO]: [TAB] Loaded NMS hook in 209ms
+[19:31:22] [Server thread/INFO]: [TAB] [WARN] [config.yml] Scoreboard "scoreboard-1.20.3+" is using right-side text alignment (using ||) in the lines, however, your server does not support this feature. It was added into the game in version 1.20.3. Any text defined after || in lines will not be displayed.
+[19:31:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[19:31:23] [Server thread/INFO]: [TAB] Enabled in 500ms
+[19:31:23] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[19:31:23] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[19:31:23] [Server thread/INFO]: [voicechat] Compatibility version 18
+[19:31:23] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[19:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.26]
+[19:31:23] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
+[19:31:23] [Server thread/INFO]: [Orebfuscator] Enabling Orebfuscator v5.5.2
+[19:31:24] [Server thread/INFO]: [ProtectionBlocks] Enabling ProtectionBlocks v1.0.9
+[19:31:24] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[19:31:24] [Server thread/WARN]: [ProtectionBlocks] WARNING: You're running an outdated server version (1.20.1)!
+[19:31:24] [Server thread/WARN]: [ProtectionBlocks] This version will no longer be supported in future relases.
+[19:31:24] [Server thread/WARN]: [ProtectionBlocks] Please upgrade your server to 1.20.4.
+[19:31:24] [Server thread/WARN]: [ProtectionBlocks] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[19:31:24] [Server thread/WARN]: [ProtectionBlocks] ===================================
+[19:31:24] [Server thread/INFO]: [ProtectionBlocks] Powered by: PLAZMER-ENGINE
+[19:31:24] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-65 - Starting...
+[19:31:25] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] ProtectionBlocks-65 - Added connection org.sqlite.jdbc4.JDBC4Connection@3d0ebb54
+[19:31:25] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] ProtectionBlocks-65 - Start completed.
+[19:31:25] [Server thread/INFO]: [ProtectionBlocks] Using DecentHolograms hologram handler.
+[19:31:25] [Server thread/INFO]: [ProtectionBlocks] Registered currency: exp
+[19:31:25] [Server thread/INFO]: [ProtectionBlocks] Plugin loaded in 293 ms!
+[19:31:25] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:31:25] [Server thread/INFO]: Running delayed init tasks
+[19:31:25] [Server thread/INFO]: Done (42.869s)! For help, type "help"
+[19:31:25] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:31:25] [Server thread/INFO]: Timings Reset
+[19:31:25] [Server thread/INFO]: [voicechat] Loading plugins
+[19:31:25] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[19:31:25] [Server thread/INFO]: [voicechat] Initializing plugins
+[19:31:25] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[19:31:25] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:31:25] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Checking for update...
+[19:31:26] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Version installed is 3.1.0
+[19:31:26] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Latest version found online is 3.2.2
+[19:31:26] [Craft Scheduler Thread - 8 - ChatEx/INFO]: [ChatEx] Update found! Please consider installing the latest version from https://www.spigotmc.org/resources/71041/updates
+[19:31:26] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.28.190.108', binding to wildcard IP instead
+[19:31:26] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[19:31:26] [Server thread/INFO]: [ProtectionBlocks] Region Blocks Loaded: 0
+[19:31:26] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[19:31:26] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'fa508b0-2.yml'
+[19:31:26] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'bloque_de_diamante' not Created or Loaded!
+[19:31:26] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'd56596d-3.yml'
+[19:31:26] [Server thread/ERROR]: [ProtectionBlocks] Cannot load the Region but Region Block 'esmeralda' not Created or Loaded!
+[19:31:26] [Server thread/ERROR]: [ProtectionBlocks] Region not loaded 'e713997-2.yml'
+[19:31:26] [Server thread/INFO]: [ProtectionBlocks] Regions Loaded: 0
+[19:31:26] [Server thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:31:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[19:31:26] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion worldguard due to an unknown issue.
+[19:31:26] [Server thread/INFO]: 1 placeholder hook(s) registered!
+[19:31:31] [Craft Scheduler Thread - 7 - AxGraves/INFO]: AxGraves » T¡Hay una nueva versión de AxGraves disponible! (actual: 1.17.0 | última: 1.17.1)
