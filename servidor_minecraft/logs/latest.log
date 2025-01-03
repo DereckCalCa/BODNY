@@ -538,3 +538,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:29:43] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [21:34:22] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
 [21:34:56] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[21:38:40] [Server thread/INFO]: Churrupakin has reached the goal [Beaconator]
