@@ -540,3 +540,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [21:34:56] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [21:38:40] [Server thread/INFO]: Churrupakin has reached the goal [Beaconator]
 [21:45:42] [Server thread/INFO]: Churrupakin issued server command: /fac claim
+[22:15:50] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[22:15:59] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[22:16:06] [Server thread/INFO]: pingaparaangel was slain by Iron Golem
+[22:23:11] [Server thread/INFO]: pingaparaangel was slain by Iron Golem
