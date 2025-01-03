@@ -545,3 +545,9 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [22:16:06] [Server thread/INFO]: pingaparaangel was slain by Iron Golem
 [22:23:11] [Server thread/INFO]: pingaparaangel was slain by Iron Golem
 [22:28:42] [Server thread/INFO]: pingaparaangel was slain by Zombie
+[22:40:04] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[22:40:04] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:40:04] [Server thread/INFO]: Churrupakin left the game
+[22:43:27] [User Authenticator #6/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:43:27] [Server thread/INFO]: Churrupakin joined the game
+[22:43:27] [Server thread/INFO]: Churrupakin[/172.28.81.73:39026] logged in with entity id 57923 at ([world]133.51281696717052, 40.0, 130.06079886606565)
