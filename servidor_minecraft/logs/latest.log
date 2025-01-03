@@ -581,3 +581,9 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:24:51] [Server thread/INFO]: pingaparaangel left the game
 [23:29:53] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
 [23:30:02] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[23:37:35] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[23:37:35] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:37:35] [Server thread/INFO]: Churrupakin left the game
+[23:37:36] [User Authenticator #7/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:37:36] [Server thread/INFO]: Churrupakin joined the game
+[23:37:36] [Server thread/INFO]: Churrupakin[/172.28.81.73:37252] logged in with entity id 78962 at ([world]145.60829455615718, 66.0, 112.24204527464228)
