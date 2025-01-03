@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-27 22:59:55 +0000",
       "minecraft:taiga": "2024-12-16 23:17:44 +0000",
+      "minecraft:frozen_river": "2025-01-03 23:18:09 +0000",
       "minecraft:cherry_grove": "2024-12-16 22:44:16 +0000",
       "minecraft:sunflower_plains": "2024-12-29 21:04:27 +0000",
       "minecraft:birch_forest": "2024-12-29 20:58:58 +0000",
@@ -3437,6 +3438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-01-03 23:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-01-03 21:54:15 +0000"
@@ -3455,9 +3462,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-01-03 23:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-03 20:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-01-03 23:16:15 +0000"
     },
     "done": true
   },

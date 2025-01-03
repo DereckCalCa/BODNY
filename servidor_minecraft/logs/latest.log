@@ -573,3 +573,11 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:13:46] [Server thread/INFO]: Villager EntityVillager['Villager'/236, uuid='24919160-c175-446f-9b20-91e5834d38d7', l='ServerLevel[world]', x=187.70, y=57.04, z=87.70, cpos=[11, 5], tl=601156, v=true] died, message: 'Villager was slain by Zombie Villager'
 [23:13:48] [Server thread/INFO]: Villager EntityVillager['Villager'/239, uuid='ba22e15c-99c9-4459-be47-dc6b46386e6d', l='ServerLevel[world]', x=187.70, y=57.05, z=87.30, cpos=[11, 5], tl=1403793, v=true] died, message: 'Villager was slain by Zombie Villager'
 [23:13:49] [Server thread/INFO]: Villager EntityVillager['Villager'/247, uuid='f4e00098-2ae8-488a-868f-471c7c21f3cb', l='ServerLevel[world]', x=187.70, y=57.05, z=87.30, cpos=[11, 5], tl=1111303, v=true] died, message: 'Villager was slain by Zombie Villager'
+[23:23:41] [Server thread/INFO]: pingaparaangel issued server command: /FAC HOME
+[23:23:52] [Server thread/INFO]: pingaparaangel issued server command: /fac home
+[23:24:49] [Async Chat Thread - #45/INFO]: [Not Secure] Heroico  pingaparaangel : ms tarde
+[23:24:51] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[23:24:51] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[23:24:51] [Server thread/INFO]: pingaparaangel left the game
+[23:29:53] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[23:30:02] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
