@@ -252,3 +252,6 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:31:26] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion worldguard due to an unknown issue.
 [19:31:26] [Server thread/INFO]: 1 placeholder hook(s) registered!
 [19:31:31] [Craft Scheduler Thread - 7 - AxGraves/INFO]: AxGraves » T¡Hay una nueva versión de AxGraves disponible! (actual: 1.17.0 | última: 1.17.1)
+[19:47:21] [User Authenticator #0/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[19:47:22] [Server thread/INFO]: pingaparaangel joined the game
+[19:47:22] [Server thread/INFO]: pingaparaangel[/172.28.117.248:51073] logged in with entity id 256 at ([world]1244.699999988079, 69.0, -1943.1559587071915)
