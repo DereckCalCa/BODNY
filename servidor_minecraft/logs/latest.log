@@ -556,3 +556,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [22:53:30] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [22:53:33] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
 [22:53:38] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[23:03:42] [Server thread/INFO]: pingaparaangel issued server command: /fac home
