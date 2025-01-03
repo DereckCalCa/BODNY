@@ -381,3 +381,75 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:31:12] [Async Chat Thread - #12/INFO]: [Not Secure] Heroico  pingaparaangel : traelos dnd estoy yo
 [20:31:19] [Async Chat Thread - #12/INFO]: [Not Secure] Heroico  pingaparaangel : 5 nms
 [20:31:25] [Craft Scheduler Thread - 23 - Orebfuscator/INFO]: [Orebfuscator] CacheFileCleanupTask successfully deleted 2 cache file(s)
+[20:35:11] [Async Chat Thread - #14/INFO]: [Not Secure] Heroico  XxMatos15 : 145.700/97.00000/-239.105
+[20:35:17] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[20:37:53] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:37:53] [Server thread/INFO]: Churrupakin joined the game
+[20:37:53] [Server thread/INFO]: Churrupakin[/172.28.81.73:54672] logged in with entity id 10955 at ([world]205.0576022354848, -50.0, 240.67028795351894)
+[20:37:58] [Server thread/INFO]: pingaparaangel was killed by [Intentional Game Design]
+[20:38:06] [Async Chat Thread - #16/INFO]: [Not Secure] Heroico  XxMatos15 : XDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[20:38:20] [Async Chat Thread - #17/INFO]: [Not Secure] Owner Churrupakin : donde s encuentran xd
+[20:38:28] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : si era vdd q las camas explotaban en el nether
+[20:38:41] [Async Chat Thread - #16/INFO]: [Not Secure] Heroico  pingaparaangel : pera
+[20:38:43] [Async Chat Thread - #17/INFO]: [Not Secure] Owner Churrupakin : si xd
+[20:39:40] [Async Chat Thread - #17/INFO]: [Not Secure] Heroico  pingaparaangel : te paso coors o como
+[20:39:48] [Async Chat Thread - #17/INFO]: [Not Secure] Owner Churrupakin : me tepeo d vrd xddddd
+[20:40:00] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:40:48] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  pingaparaangel : zzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20:40:59] [Async Chat Thread - #18/INFO]: [Not Secure] Heroico  pingaparaangel : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzw
+[20:41:32] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:41:47] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:41:57] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel
+[20:42:08] [Async Chat Thread - #20/INFO]: [Not Secure] Heroico  pingaparaangel : pera
+[20:42:21] [Async Chat Thread - #20/INFO]: [Not Secure] Owner Churrupakin : donde goo quiero hacer mi base
+[20:42:25] [Async Chat Thread - #20/INFO]: [Not Secure] Heroico  pingaparaangel : aca
+[20:42:32] [Async Chat Thread - #21/INFO]: [Not Secure] Heroico  pingaparaangel : ven
+[20:42:33] [Async Chat Thread - #21/INFO]: [Not Secure] Owner Churrupakin : cuando su fut dijo el negro?
+[20:42:34] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel
+[20:43:22] [Async Chat Thread - #21/INFO]: [Not Secure] Owner Churrupakin : ahi esta
+[20:43:47] [Async Chat Thread - #21/INFO]: [Not Secure] Heroico  pingaparaangel : ya
+[20:43:52] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
+[20:44:48] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[20:45:38] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : mno
+[20:45:48] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : utds ven el cielo rosa xd
+[20:46:11] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : no
+[20:46:13] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  pingaparaangel : mineccraft oreal
+[20:47:12] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : tp a anyelo
+[20:47:20] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 pingaparaangel
+[20:47:21] [Async Chat Thread - #23/INFO]: [Not Secure] Heroico  pingaparaangel : estoy en nether
+[20:47:28] [Async Chat Thread - #23/INFO]: [Not Secure] Owner Churrupakin : voy a cobrar x tp creo
+[20:47:36] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : asi nmas
+[20:47:43] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : has tu sethome
+[20:47:58] [Async Chat Thread - #22/INFO]: [Not Secure] Heroico  XxMatos15 : como elimino la set home de mi otra base
+[20:48:15] [Server thread/INFO]: XxMatos15 issued server command: /faction claim
+[20:48:21] [Async Chat Thread - #22/INFO]: [Not Secure] Owner Churrupakin : pera
+[20:48:29] [Server thread/INFO]: Churrupakin issued server command: /fac help
+[20:48:37] [Server thread/INFO]: XxMatos15 issued server command: /faction claim Skbidis
+[20:48:40] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.claim
+[20:48:43] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.admin
+[20:48:48] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.general
+[20:48:57] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.manage
+[20:48:58] [Server thread/INFO]: XxMatos15 issued server command: /faction claim mthssx_17
+[20:49:05] [Server thread/INFO]: XxMatos15 issued server command: /faction claim mthssx_2
+[20:49:08] [Server thread/INFO]: XxMatos15 issued server command: /faction claim mthssx_30
+[20:49:11] [Server thread/INFO]: XxMatos15 issued server command: /faction claim mthssx_30
+[20:49:17] [Server thread/INFO]: Churrupakin issued server command: /fac delete home
+[20:49:24] [Server thread/INFO]: Churrupakin issued server command: /fac delete sethome
+[20:49:30] [Server thread/INFO]: Churrupakin issued server command: /fac delete
+[20:49:33] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : pasen comida
+[20:49:41] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  XxMatos15 : no hay
+[20:49:46] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : tmr
+[20:50:02] [Server thread/INFO]: Churrupakin issued server command: /f help category:base.command.category.members
+[20:50:02] [pool-36-thread-4/WARN]: [ImprovedFactions] Missing base.command.members.description in the language file for en_US
+[20:50:20] [Async Chat Thread - #24/INFO]: [Not Secure] Heroico  pingaparaangel : hare la de canserbero
+[20:50:26] [Async Chat Thread - #24/INFO]: [Not Secure] Owner Churrupakin : borra tu faccion y crea otra xd
+[20:50:30] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[20:51:05] [Server thread/INFO]: pingaparaangel hit the ground too hard
+[20:51:10] [Server thread/INFO]: XxMatos15 issued server command: /fac home
+[20:51:27] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim [radius]
+[20:51:34] [Async Chat Thread - #26/INFO]: [Not Secure] Heroico  XxMatos15 : como se borra
+[20:51:40] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim
+[20:52:24] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim
+[20:52:25] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim
+[20:52:29] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim [radius]
+[20:52:37] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim 123445
