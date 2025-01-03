@@ -453,3 +453,36 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [20:52:25] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim
 [20:52:29] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim [radius]
 [20:52:37] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim 123445
+[20:52:43] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim 5
+[20:53:25] [Server thread/INFO]: XxMatos15 issued server command: /faction unclaim 5
+[20:53:30] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : tp a anyelo
+[20:53:47] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[20:53:50] [Server thread/INFO]: XxMatos15 issued server command: /faction members pingaparaangel
+[20:54:03] [Server thread/INFO]: XxMatos15 issued server command: /faction leave
+[20:54:29] [Async Chat Thread - #28/INFO]: [Not Secure] Heroico  XxMatos15 : 145.700/97.00000/-239.105
+[20:55:27] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[20:55:35] [Server thread/INFO]: Churrupakin issued server command: /fac list
+[20:55:40] [Async Chat Thread - #30/INFO]: [Not Secure] Owner Churrupakin : has /fac delete
+[20:56:02] [Server thread/INFO]: XxMatos15 issued server command: /fac delete
+[20:56:13] [Async Chat Thread - #31/INFO]: [Not Secure] Heroico  XxMatos15 : se requiere confirmacion para ejecutar este comando dice
+[20:56:22] [Async Chat Thread - #32/INFO]: [Not Secure] Owner Churrupakin : pera
+[20:59:18] [Server thread/INFO]: pingaparaangel tried to swim in lava
+[20:59:40] [Async Chat Thread - #33/INFO]: [Not Secure] Heroico  XxMatos15 : tp a anyelo
+[20:59:53] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 pingaparaangel
+[21:00:07] [Async Chat Thread - #33/INFO]: [Not Secure] Heroico  pingaparaangel : duerme
+[21:00:49] [Server thread/INFO]: XxMatos15 issued server command: /fac delete
+[21:00:50] [Server thread/INFO]: XxMatos15 issued server command: /fac delete
+[21:00:50] [Server thread/INFO]: XxMatos15 issued server command: /fac delete
+[21:00:50] [Server thread/INFO]: XxMatos15 issued server command: /fac delete
+[21:00:51] [Server thread/INFO]: XxMatos15 issued server command: /fac delete
+[21:00:51] [Async Chat Thread - #33/INFO]: [Not Secure] Heroico  XxMatos15 : tp a anyelot
+[21:00:55] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 pingaparaangel
+[21:01:28] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[21:01:28] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:01:28] [Server thread/INFO]: Churrupakin left the game
+[21:01:29] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:01:29] [Server thread/INFO]: Churrupakin joined the game
+[21:01:29] [Server thread/INFO]: Churrupakin[/172.28.81.73:47746] logged in with entity id 20098 at ([world]137.89381915011325, 66.0, 111.35237467539599)
+[21:01:36] [Server thread/INFO]: XxMatos15 was poked to death by a sweet berry bush
+[21:01:41] [Async Chat Thread - #33/INFO]: [Not Secure] Heroico  pingaparaangel : xd
+[21:02:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
