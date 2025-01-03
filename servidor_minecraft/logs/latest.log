@@ -587,3 +587,10 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:37:36] [User Authenticator #7/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
 [23:37:36] [Server thread/INFO]: Churrupakin joined the game
 [23:37:36] [Server thread/INFO]: Churrupakin[/172.28.81.73:37252] logged in with entity id 78962 at ([world]145.60829455615718, 66.0, 112.24204527464228)
+[23:44:23] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[23:44:23] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:44:23] [Server thread/INFO]: Churrupakin left the game
+[23:44:24] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:44:24] [Server thread/INFO]: Churrupakin joined the game
+[23:44:24] [Server thread/INFO]: Churrupakin[/172.28.81.73:44478] logged in with entity id 79710 at ([world]118.04443292706739, 63.0, 118.00190760672476)
+[23:46:50] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
