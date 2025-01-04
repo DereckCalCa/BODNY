@@ -594,3 +594,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [23:44:24] [Server thread/INFO]: Churrupakin joined the game
 [23:44:24] [Server thread/INFO]: Churrupakin[/172.28.81.73:44478] logged in with entity id 79710 at ([world]118.04443292706739, 63.0, 118.00190760672476)
 [23:46:50] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[23:52:15] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
